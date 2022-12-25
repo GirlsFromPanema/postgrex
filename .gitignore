@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The directory Mix will write compiled artifacts to.
 /_build/
 
@@ -27,3 +28,8 @@ postgrex-*.tar
 
 node_modules
 dist
+=======
+dist
+node_modules
+.env
+>>>>>>> 8be7140 (yes)
